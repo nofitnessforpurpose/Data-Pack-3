@@ -12,9 +12,9 @@ A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intenti
 <BR>
 
 [![Organiser](https://img.shields.io/badge/gadget-Organiser_II-blueviolet.svg?%3D&style=flat-square)]([https://en.wikipedia.org/wiki/Psion_Organiser])
-[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/Data-Pack-2?style=flat-square)](https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/LICENSE) 
-[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/DataPak/graphs/commit-activity)
-![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/Data-Pack-2?style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/nofitnessforpurpose/Data-Pack-2?style=flat-square)](https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/LICENSE) 
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat-square)](https://github.com/nofitnessforpurpose/Data-Pack-3/graphs/commit-activity)
+![GitHub repo size](https://img.shields.io/github/repo-size/nofitnessforpurpose/Data-Pack-3?style=flat-square)
 [![Static Badge](https://img.shields.io/badge/format-STEP%20Solid%20Model-blue?style=flat-square)](https://en.wikipedia.org/wiki/ISO_10303)
 
 <br>  
