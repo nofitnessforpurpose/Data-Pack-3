@@ -6,7 +6,7 @@ A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intenti
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/images/2024-09-12%20-%20Data%20Pack%20Case%202002.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Case. Image copyright (c) 10 August 2024 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/images/Smooth-DataPack.png?raw=true" width="400px" alt="PSION Organiser I1 & Organiser II Side Slot Case. Image copyright (c) 04 February 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
@@ -26,13 +26,14 @@ All the files are required for a complete case assembly. The default repository 
 
 ### On-Line Preview   
 Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
- - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/Top-Cover%2001.stp">here</a>.  
- - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/Outer%2001%20-%20Custom%20Grips-a.stp">here</a>.  
- - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-2/blob/main/CAD/as-dp-2.stp">here</a>.  
+ - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/CAD/Top-Cover%2003%20-%20No%20Hole.stp">here</a>.  
+ - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/CAD/Outer%2003%20-%20Smooth.stp">here</a>.  
+ - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/CAD/asssc.stp">here</a>.  
 <BR>
 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
+A smooth case may prove impracticable in use as it would prove very difficult to remove.  
 
 Alternate pack and label designs can be located <a href="https://github.com/markaudacity/Psion">here</a>.
 ## Questions / Discussion
