@@ -1,4 +1,4 @@
-# Data-Pack-2
+# Data-Pack-3
 Organiser I & Organiser II - Data Pack Case - Smooth - Pre-Release
 
 A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined, this version is smooth.
