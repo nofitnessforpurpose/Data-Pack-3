@@ -6,7 +6,7 @@ A 3D Model file of a PSION Organiser II (all family) Data Pack Case. The intenti
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/images/Smooth-DataPack.png?raw=true" width="400px" alt="PSION Organiser I1 & Organiser II Side Slot Case. Image copyright (c) 04 February 2025 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/Data-Pack-3/blob/main/images/Smooth-DataPack.png" width="400px" alt="PSION Organiser I1 & Organiser II Side Slot Case. Image copyright (c) 04 February 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
